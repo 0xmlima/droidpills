@@ -33,7 +33,7 @@ export default function Hero() {
                 DroidPills
               </h1>
               <h2 className="text-3xl font-medium opacity-80 sm:text-6xl md:text-6xl xl:text-7xl">
-                From models to production pipelines.
+                From models to pipelines.
               </h2>
               <Link
                 href="/about"

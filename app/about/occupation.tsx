@@ -5,7 +5,7 @@ export default function Occupation() {
     <div className="mb-8 flex flex-col-reverse items-center justify-between sm:flex-row sm:items-center">
       <div className="text-left">
         <h1 className="text-xl font-bold md:text-3xl lg:text-4xl">DroidPills</h1>
-        <h2 className="text-sm font-normal md:text-base">From models to production pipelines</h2>
+        <h2 className="text-sm font-normal md:text-base">From models to pipelines</h2>
       </div>
       <div>
         <Image
