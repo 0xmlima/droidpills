@@ -2,7 +2,7 @@ export const siteMetadata = {
   title: 'DroidPills',
   author: 'DroidPills',
   headerTitle: 'droidpills',
-  description: 'From bots to full-scale systems.',
+  description: 'From models to production pipelines.',
   language: 'en-us',
   theme: 'dark', // system, dark or light
   siteUrl: 'https://droidpills.com',

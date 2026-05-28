@@ -2,6 +2,13 @@ import { Project } from './types';
 
 export const projects: Project[] = [
   {
+    title: 'Soleague',
+    src: 'soleague.png',
+    color: '#dbeafe',
+    url: 'https://www.soleague.fun/',
+    role: 'Web3 Prediction Game',
+  },
+  {
     title: 'Estadia',
     src: 'estadia-mockup.png',
     color: '#dbeafe',

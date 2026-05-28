@@ -11,6 +11,16 @@ export type WorkTile = {
 
 export const workTiles: WorkTile[] = [
   {
+    description: `web3 prediction game`,
+    title: `Soleague`,
+    link: 'https://www.soleague.fun/',
+    image: {
+      src: '/static/images/project/soleague.png',
+      width: 900,
+      height: 900,
+    },
+  },
+  {
     description: `Built for scale and performance`,
     title: `real-world solutions.`,
     link: 'https://estadia.io/',
